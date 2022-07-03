@@ -9,6 +9,6 @@ To perform the linear regression model, first the MechaCar_mpg.csv file was impo
 ![head Mechacar Table](https://user-images.githubusercontent.com/100876517/177061440-014779bd-8701-4d0b-8ffb-523e0da762a2.png)
 
 
-![Del 1 Linear Regression](https://user-images.githubusercontent.com/100876517/177061444-c90b31ff-3311-48fd-8a2b-fe1206a08cb6.png)
-
 The linear regression was based on the variables of vehicle length, vehicle weight, spoiler angle, ground clearance and AWD.
+
+![Del 1 1](https://user-images.githubusercontent.com/100876517/177061627-0fc44627-1b45-4cd6-b721-b5e8b6e75bac.png)
