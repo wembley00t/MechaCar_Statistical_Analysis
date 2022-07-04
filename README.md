@@ -2,6 +2,10 @@
 
 ## Purpose of Analysis
 
+AutosRUs' newest protype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team's progress.
+Upper management has asked for a review of the production data for insights that may help the manufacturing team.
+
+
 ## Linear Regression to Predict MPG
 
 To perform the linear regression model, first the MechaCar_mpg.csv file was imported and read into a dataframe shown below.
@@ -21,3 +25,11 @@ These results provide the following:
     an assumed significance level of 0.05%.  This also indicates the slope is not zero.
   * The linear model will predict mpg of the MechaCar prototypes effectively.  The r-squared value is 0.7149 which indicates
     that approximately 71% of mpg predictions will be determined by this model.   
+    
+  ## Summary Statistics on suspension Coils
+  
+  The design specifications for the MechaCar suspension coils dictate that the variance of suspension coils must not exceed 100 pounds per 
+  square inch.  Data was reviewed for all manufacturing lots and for the lots individually to determine if the design specification requirements
+  are being met.
+  
+  
