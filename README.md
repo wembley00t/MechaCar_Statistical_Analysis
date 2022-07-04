@@ -26,16 +26,19 @@ These results provide the following:
   * The linear model will predict mpg of the MechaCar prototypes effectively.  The r-squared value is 0.7149 which indicates
     that approximately 71% of mpg predictions will be determined by this model.   
     
-## Summary Statistics on suspension Coils
+## Summary Statistics on Suspension Coils
   
 The design specifications for the MechaCar suspension coils dictate that the variance of suspension coils must not exceed 100 pounds per 
 square inch.  Data was reviewed for all manufacturing lots and for the lots individually to determine if the design specification requirements
 are being met.
   
   
-  
+ The data for all manufacturing lots combined indicate the design specifications are being met as the variance is less than 100 pounds per square inch.
+ 
 ![Del 2](https://user-images.githubusercontent.com/100876517/177066880-d6c70490-4bee-4ac0-9b7e-73cb8dcccfd2.png)
 
+Taking this one step further, the review of each individual manufacturing lot shows that lot 3 does not meet design specifications as the variance is 
+greater than 100 pounds per square inch.  Lot 1 and 2 meet design specifications individually.
 
 ![Del 2 1](https://user-images.githubusercontent.com/100876517/177066892-ec261b89-bb32-4416-9d01-bc8a07893f65.png)
 
