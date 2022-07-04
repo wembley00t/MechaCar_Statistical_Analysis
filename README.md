@@ -40,6 +40,8 @@ are being met.
 Taking this one step further, the review of each individual manufacturing lot shows that lot 3 does not meet design specifications as the variance is 
 greater than 100 pounds per square inch.  Lot 1 and 2 meet design specifications individually.
 
+![Del 2 script](https://user-images.githubusercontent.com/100876517/177069681-45a1d7b0-326e-41ff-bdb5-5aa670416545.png)
+
 ![Del 2 redo](https://user-images.githubusercontent.com/100876517/177069484-99990deb-e05f-41b9-a7c6-8fc531300ca9.png)
 
 
