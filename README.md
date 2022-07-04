@@ -41,7 +41,6 @@ Taking this one step further, the review of each individual manufacturing lot sh
 greater than 100 pounds per square inch.  Lot 1 and 2 meet design specifications individually.
 
 ![Del 2 1](https://user-images.githubusercontent.com/100876517/177066892-ec261b89-bb32-4416-9d01-bc8a07893f65.png)
-
 ## T-Tests on Suspension Coils
 
 T-tests were performed to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 
@@ -52,14 +51,14 @@ p-value of .06 is higher than the significance level of .05 meaning we can accep
 
 ![deliv 3 1](https://user-images.githubusercontent.com/100876517/177067464-adc3fa39-ac00-45cf-9575-5fb221aaf2c2.png)
 
-###Lot 1 T-test
+### Lot 1 T-test
 
 The results of the t-test for lot 1 indicate there is a 95% confidence level the mean PSI is between 1499.72 and 1500.28. The p-value of 1
 indicates the two means are not statistically different.  Lot 1 has a true sample mean of 1500.
 
 ![del 3 2 1](https://user-images.githubusercontent.com/100876517/177067469-fc0f61ce-bf0f-4f93-87e0-f0c1ceace5e2.png)
 
-###Lot 2 T-test
+### Lot 2 T-test
 
 The results of the t-test for lot 2 indicate there is a 95% confidence level the mean PSI is between 1499.42 and 1500.98.  The p-value of
 .6072 is higher than the significance level of .05 meaning we can accept the null hypothesis as with Lot 1 and the two means are not 
@@ -67,7 +66,7 @@ statistically different.
 
 ![Del 3 2 2](https://user-images.githubusercontent.com/100876517/177067473-587670f5-14df-45ec-9f1a-4cb03a87b009.png)
 
-###Lot 3 T-test
+### Lot 3 T-test
 
 The results of the t-test for lot 3 indicate there is a 95% confidence level the mean PSI is between 1492.43 and 1499.85.  The p-value of
 .04 is less than the significance level of .05.  The mean is statistically different from the population and the null hypothesis should be
