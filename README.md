@@ -74,7 +74,27 @@ with lot 1 and 2.
 
 ![del 3,2 3](https://user-images.githubusercontent.com/100876517/177067489-5d1063af-49fc-4d7a-8619-0ea454c87036.png)
 
+## Study Design: MechaCar vs Competition
 
+To quantify how the MechaCar performs against the competition, several metrics can be tested that are of interest to a consumer.
+
+The metrics to test include:
+  * Cost
+  * Fuel Efficiency
+  * Maintenance Cost
+  * Safety Rating
+
+The first 3 metrics give the consumer a guide to overall cost of the vehicle while the safety rating provides an additional metric that is
+important to consumers.
+
+The null hypothesis is there is not a statiscally different mean result for the metrics for the MechaCar and the competition population.
+
+The statistical test to be used to test the metrics would be a t-test.  As with our above analysis, the t-test can be used to show the 
+confidence level of the mean and the p-value will aid in determining if the means are statistically the same and the null hypothesis can be 
+accepted.  Box plots would be a visual aid to highlight this information.
+
+The data needed to run the test would be a random sample for MechaCar and the competition that includes the variables to be tested for a specific
+model year.  This data could also be aggregated by region to determine if that provides any additional insight for marketing.
 
 
   
