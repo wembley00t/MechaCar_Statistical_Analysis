@@ -42,5 +42,11 @@ greater than 100 pounds per square inch.  Lot 1 and 2 meet design specifications
 
 ![Del 2 1](https://user-images.githubusercontent.com/100876517/177066892-ec261b89-bb32-4416-9d01-bc8a07893f65.png)
 
+## T-Tests on Suspension Coils
+
+
+
+
+
   
   
