@@ -39,7 +39,10 @@ are being met.
 
 Taking this one step further, the review of each individual manufacturing lot shows that lot 3 does not meet design specifications as the variance is 
 greater than 100 pounds per square inch.  Lot 1 and 2 meet design specifications individually.
-![Del 2 1](https://user-images.githubusercontent.com/100876517/177066892-ec261b89-bb32-4416-9d01-bc8a07893f65.png)
+
+![Del 2 redo](https://user-images.githubusercontent.com/100876517/177069484-99990deb-e05f-41b9-a7c6-8fc531300ca9.png)
+
+
 ## T-Tests on Suspension Coils
 
 T-tests were performed to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 
